@@ -39,3 +39,6 @@ Monitoring tools like Prometheus & Grafana.
 Automated alerts for security, performance, and test failures.
 
 Load balancing & auto-scaling for optimized performance.
+
+![image](https://github.com/user-attachments/assets/13e2959d-6123-4130-8d0e-2022e00f0440)
+
